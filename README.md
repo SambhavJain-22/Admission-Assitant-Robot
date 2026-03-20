@@ -29,7 +29,7 @@ end
 
 %% -------- EDGE AI LAYER --------
 subgraph Edge AI Processing
-C[Face Detection Model<br>(Edge Impulse)]
+C[Face Detection Model<\n>(Edge Impulse)]
 D[ESP32 Control Logic]
 end
 
