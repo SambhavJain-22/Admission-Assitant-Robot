@@ -60,13 +60,6 @@ The system consists of multiple integrated modules:
 
 ---
 
-## 📂 Project Structure
-admission-assistant-robot/
-│── body_mainnn.ino # Robot control logic (ESP32)
-│── cam_done_finalllll.ino # Camera + AI processing (ESP32-CAM)
-│── README.md
-
-
 ## 🔮 Future Improvements
 - 🎤 Voice recognition (speech-to-text interaction)  
 - 🤖 LLM-based conversational assistant  
