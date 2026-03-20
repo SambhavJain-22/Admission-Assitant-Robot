@@ -17,6 +17,23 @@ The Admission Assistant Robot is an AI-powered interactive system designed to as
 
 ## 🏗️ System Architecture
 
+## 🏗️ System Architecture Diagram
+
+```mermaid
+flowchart TD
+
+A[Visitor] --> B[ESP32-CAM Vision Module]
+B -->|Face Detection (Edge Impulse)| C[ESP32 Control Unit]
+
+C --> D[Robot Movement System]
+C --> E[DFPlayer Mini Audio Output]
+C --> F[Blynk IoT Dashboard]
+
+E --> G[Voice Response to Visitor]
+D --> H[Physical Interaction / Navigation]
+F --> I[Remote Monitoring via Mobile App]
+
+```
 The system consists of multiple integrated modules:
 
 ### 1. Vision Module (ESP32-CAM)
