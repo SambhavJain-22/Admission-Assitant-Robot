@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL342cTvHkW"
+#define BLYNK_TEMPLATE_ID "******************"
 #define BLYNK_TEMPLATE_NAME "Smart Robot"
-#define BLYNK_AUTH_TOKEN "wuioa8RuhApp8K_C-bycAkT2PILtJLRc"
+#define BLYNK_AUTH_TOKEN "********************"
 
 #include <WiFi.h>
 #include <WiFiClient.h>
@@ -11,8 +11,8 @@
 #include <LiquidCrystal_I2C.h>
 
 // ==== WiFi ====
-char ssid[] = "Redmi8";
-char pass[] = "Qwerty098";
+char ssid[] = "********";
+char pass[] = "********";
 
 // ==== Motor Pins ====
 #define IN1 26
