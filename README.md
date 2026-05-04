@@ -107,7 +107,7 @@ The system consists of multiple integrated modules:
 ---
 
 ## 🎥 Demo
-<img width="720" height="960" alt="Robot-IMG" src="https://github.com/user-attachments/assets/bb3859b4-a628-4893-b01f-41a7dd428855" />
+<img width="540" height="720" alt="Robot-IMG" src="https://github.com/user-attachments/assets/bb3859b4-a628-4893-b01f-41a7dd428855" />
 
 
 
