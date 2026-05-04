@@ -113,10 +113,10 @@ The system consists of multiple integrated modules:
 <br>
 
 
-<video width="540" height="720" autoplay loop muted playsinline controlsList="nodownload noremoteplayback">
-  <source src="https://github.com/user-attachments/assets/9c2d8d01-5f73-4a56-8e6d-3fac1a973315" type="video/mp4">
-</video>
 
+<a href="https://github.com/user-attachments/assets/9c2d8d01-5f73-4a56-8e6d-3fac1a973315">
+  <img width="540" height="720" alt="Robot Demo" src="https://github.com/user-attachments/assets/bb3859b4-a628-4893-b01f-41a7dd428855">
+</a>
 ---
 
 ## 👨‍💻 Author
