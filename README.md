@@ -107,7 +107,7 @@ The system consists of multiple integrated modules:
 ---
 
 ## 🎥 Demo
-<img width="960" height="1280" alt="WhatsApp Image 2025-11-20 at 12 22 46_a9e99656" src="https://github.com/user-attachments/assets/bb3859b4-a628-4893-b01f-41a7dd428855" />
+<img width="720" height="960" alt="Robot-IMG" src="https://github.com/user-attachments/assets/bb3859b4-a628-4893-b01f-41a7dd428855" />
 
 
 
