@@ -107,6 +107,13 @@ The system consists of multiple integrated modules:
 ---
 
 ## 🎥 Demo
+<img width="960" height="1280" alt="WhatsApp Image 2025-11-20 at 12 22 46_a9e99656" src="https://github.com/user-attachments/assets/bb3859b4-a628-4893-b01f-41a7dd428855" />
+
+
+
+https://github.com/user-attachments/assets/9c2d8d01-5f73-4a56-8e6d-3fac1a973315
+
+
 
 
 ---
