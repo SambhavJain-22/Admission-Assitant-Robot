@@ -109,12 +109,9 @@ The system consists of multiple integrated modules:
 ## 🎥 Demo
 <img width="540" height="720" alt="Robot-IMG" src="https://github.com/user-attachments/assets/bb3859b4-a628-4893-b01f-41a7dd428855" />
 
-
-
-https://github.com/user-attachments/assets/9c2d8d01-5f73-4a56-8e6d-3fac1a973315
-
-
-
+<video width="540" height="720" autoplay loop muted playsinline controlsList="nodownload noremoteplayback">
+  <source src="https://github.com/user-attachments/assets/9c2d8d01-5f73-4a56-8e6d-3fac1a973315" type="video/mp4">
+</video>
 
 ---
 
