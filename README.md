@@ -111,8 +111,15 @@ The system consists of multiple integrated modules:
 </img>
 
 <br>
-
-<video width="540" height="720" alt="Robot Demo"  muted loop src="https://github.com/user-attachments/assets/9c2d8d01-5f73-4a56-8e6d-3fac1a973315">
+<video 
+  width="540" 
+  height="720" 
+  muted 
+  loop 
+  autoplay
+  src="https://github.com/user-attachments/assets/9c2d8d01-5f73-4a56-8e6d-3fac1a973315">
+</video>
+<!-- <video width="540" height="720" alt="Robot Demo"  muted loop src="https://github.com/user-attachments/assets/9c2d8d01-5f73-4a56-8e6d-3fac1a973315"> -->
 <!-- <video width="540" height="720"  muted loop>
   <source src="https://github.com/user-attachments/assets/9c2d8d01-5f73-4a56-8e6d-3fac1a973315" type="video/mp4">
 </video> -->
